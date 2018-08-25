@@ -20,6 +20,8 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [nHAPI](https://github.com/duaneedwards/nHapi) - nHAPI (C#) 
 * [python-hl7](https://github.com/johnpaulett/python-hl7) - (Py)
 * [HL7-fuse](https://github.com/dib0/HL7Fuse) - HL7Fuse (C#)
+* [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - HL7Fuse (C#)
+
 ## Talks
 * [The Scientific Method in Security Research](https://www.youtube.com/watch?v=UkA9JOUcFi4) -  Jay Radcliffe - The Scientific Method in Security Research
 * [Breaking the Human SCADA](https://www.youtube.com/watch?v=avf5XF8yS60) - Hacking Medical Devices for Fun and Insulin: Breaking the Human SCADA System
@@ -34,16 +36,27 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Hacking Medical Devices And Healthcare Infrastructure](https://www.youtube.com/watch?v=3S6RQo-OQ24) - Hacking Medical Devices And Healthcare Infrastructure - Anirudh Duggal
 * [Anatomy of a Medical Device](https://www.youtube.com/watch?v=FnvcocyI4pI) - Anatomy of a Medical Device Hack Doctors vs Hackers in a Clinical Simulation Cage Match Joshua
 * [Hacking Medical Devices](https://www.youtube.com/watch?v=KIU2mNpXsPg) - Hacking Medical Devices - Florian Grunow
+* [Medical Security Nightmares](https://www.youtube.com/watch?v=0F_eScTUris) - Florian Grunow: Medical Security Nightmares (GERMAN)
+* [HIPPA and hacking medical devices](https://www.youtube.com/watch?v=_aqOOPUwJhE) - Privacy HIPAA and Hacking Medical Devices
+* [Healthcare security challenges](https://www.youtube.com/watch?v=yjZ-KiZlk7Q) - Digital Disease: How Healthcare Cybersecurity Challenges
+* [Pwnage and Honeypots](https://www.youtube.com/watch?v=ZusL2BY6_XU) - Scott Erven and Mark Collao -Medical Devices: Pwnage and Honeypots
 
 
 ## Papers
+* [Introduction to HL7 Standards](http://www.hl7.org/implement/standards/index.cfm?ref=nav) - Introduction to HL7 Standards
+
+## Videos
+* [HL7 Courses](https://www.youtube.com/watch?v=ZAgdYR1rmEQ&list=PLNH9Hx9ks4CediBpp9Yr9N8icTfCr0TUN) - Youtube list that contains HL7 videos explaining HL7 v2 protocol
+* [HL7 Message flow](https://www.youtube.com/watch?v=-suRA7cJ9fI) - HL7 Message Flow
+* [Live hack](https://www.youtube.com/watch?v=2svPAJViJ1o) - Live Hacking Infosec Health
+
 
 
 ## Tools 
-* []() - hl7edit
-* []() - Mirth Connector
+* [7Edit](http://www.7edit.com/home/index.php) - 7edit - NOT FREE
+* [NextGen](https://www.nextgen.com/products-and-services/integration-engine) - NextGen(Previously mirth) Connect 
 * [HL7-Snoop](https://github.com/dgrinberg/HL7-Snoop) - 'HL7 Snoop' is a Windows GUI that uses NHapi to parse a HL7 file and then display it in a tree structure.
-
+* [Farser](https://hl7.cc/) - online HL7 Parser/Viewer
 
 
 ## Contributors
