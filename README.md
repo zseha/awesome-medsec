@@ -15,9 +15,11 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 
 //* [linktext](link) - Description  
 ## Libraries
-dicom lib
-hl7 lib
-
+* []() - dicom lib
+* [HAPI](https://github.com/hapifhir/hapi-hl7v2) - HAPI (Java)
+* [nHAPI](https://github.com/duaneedwards/nHapi) - nHAPI (C#) 
+* [python-hl7](https://github.com/johnpaulett/python-hl7) - (Py)
+* [HL7-fuse](https://github.com/dib0/HL7Fuse) - HL7Fuse (C#)
 ## Talks
 * [The Scientific Method in Security Research](https://www.youtube.com/watch?v=UkA9JOUcFi4) -  Jay Radcliffe - The Scientific Method in Security Research
 * [Breaking the Human SCADA](https://www.youtube.com/watch?v=avf5XF8yS60) - Hacking Medical Devices for Fun and Insulin: Breaking the Human SCADA System
@@ -38,6 +40,10 @@ hl7 lib
 
 
 ## Tools 
+* []() - hl7edit
+* []() - Mirth Connector
+* [HL7-Snoop](https://github.com/dgrinberg/HL7-Snoop) - 'HL7 Snoop' is a Windows GUI that uses NHapi to parse a HL7 file and then display it in a tree structure.
+
 
 
 ## Contributors
