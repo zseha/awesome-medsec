@@ -9,4 +9,18 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 
 <!-- MarkdownTOC depth=4 -->
 - [Libraries](#libraries)
-- [Projects](#projects)
+- [Talks](#talks)
+- [Papers](#papers)
+- [Tools](#tools)
+
+//* [linktext](link) -  
+## Libraries
+dicom lib
+hl7 lib
+
+## Talks
+
+
+## Papers
+
+## Tools 
