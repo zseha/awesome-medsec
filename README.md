@@ -13,7 +13,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 - [Papers](#papers)
 - [Tools](#tools)
 
-//* [linktext](link) -  
+//* [linktext](link) - Description  
 ## Libraries
 dicom lib
 hl7 lib
