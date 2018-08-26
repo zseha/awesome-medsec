@@ -40,6 +40,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [HIPPA and hacking medical devices](https://www.youtube.com/watch?v=_aqOOPUwJhE) - Privacy HIPAA and Hacking Medical Devices
 * [Healthcare security challenges](https://www.youtube.com/watch?v=yjZ-KiZlk7Q) - Digital Disease: How Healthcare Cybersecurity Challenges
 * [Pwnage and Honeypots](https://www.youtube.com/watch?v=ZusL2BY6_XU) - Scott Erven and Mark Collao -Medical Devices: Pwnage and Honeypots
+* [Hospitals And Infosec](https://www.youtube.com/watch?v=5QDdXPWZS1c) - Hospitals And Infosec by Jelena Milosevic
 
 
 ## Papers
