@@ -44,6 +44,10 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 
 ## Papers
 * [Introduction to HL7 Standards](http://www.hl7.org/implement/standards/index.cfm?ref=nav) - Introduction to HL7 Standards
+* [Multiple presentations and documents](https://www.infosec-health.ch/downloads.html) - As there are multiple interesting presentations only a link to list is posted(GERMAN)
+* [Medical Device Deployment Standard](https://www.owasp.org/index.php/OWASP_Secure_Medical_Device_Deployment_Standard) - OWASP Secure Medical Device Deployment Standard
+* [ISO13485](https://www.iso.org/standard/59752.html) - Standard for developing software used in medical devices
+* [QM System for medical devices](https://www.tuv-sud.co.uk/uk-en/industry/healthcare-medical-devices/quality-management-amp-quality-control/iso-13485-quality-management-system-for-medical-devices) - ISO 13485 Quality Management System for Medical Devices
 
 ## Videos
 * [HL7 Courses](https://www.youtube.com/watch?v=ZAgdYR1rmEQ&list=PLNH9Hx9ks4CediBpp9Yr9N8icTfCr0TUN) - Youtube list that contains HL7 videos explaining HL7 v2 protocol
