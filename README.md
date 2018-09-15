@@ -50,6 +50,8 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Medical Device Deployment Standard](https://www.owasp.org/index.php/OWASP_Secure_Medical_Device_Deployment_Standard) - OWASP Secure Medical Device Deployment Standard
 * [ISO13485](https://www.iso.org/standard/59752.html) - Standard for developing software used in medical devices
 * [QM System for medical devices](https://www.tuv-sud.co.uk/uk-en/industry/healthcare-medical-devices/quality-management-amp-quality-control/iso-13485-quality-management-system-for-medical-devices) - ISO 13485 Quality Management System for Medical Devices
+* [Hippocratic Oath for Connected Medical Devices](https://www.iamthecavalry.org/wp-content/uploads/2016/01/I-Am-The-Cavalry-Hippocratic-Oath-for-Connected-Medical-Devices.pdf) - I Am The Cavalry - Hippocratic Oath for Connected Medical Devices
+* [Five Star Automotive Cyber Safety](https://www.iamthecavalry.org/wp-content/uploads/2014/08/Five-Star-Automotive-Cyber-Safety-February-2015.pdf) - Five Star automotive cyber safety framework is also applicable to medical devices
 
 ## Videos
 * [HL7 Courses](https://www.youtube.com/watch?v=ZAgdYR1rmEQ&list=PLNH9Hx9ks4CediBpp9Yr9N8icTfCr0TUN) - Youtube list that contains HL7 videos explaining HL7 v2 protocol
