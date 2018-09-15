@@ -13,7 +13,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 - [Papers](#papers)
 - [Tools](#tools)
 
-//* [linktext](link) - Description  
+
 ## Libraries
 * []() - dicom lib
 * [HAPI](https://github.com/hapifhir/hapi-hl7v2) - HAPI (Java)
