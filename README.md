@@ -42,6 +42,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Pwnage and Honeypots](https://www.youtube.com/watch?v=ZusL2BY6_XU) - Scott Erven and Mark Collao -Medical Devices: Pwnage and Honeypots
 * [Hospitals And Infosec](https://www.youtube.com/watch?v=5QDdXPWZS1c) - Hospitals And Infosec by Jelena Milosevic
 * [State of Medical Device Cyber Safety](https://www.youtube.com/watch?v=SLMafs9FMvE) - State of Medical Device Cyber Safety Beau Woods Scott Erven (IATC)
+* [Medical Device Threat Modeling](https://www.youtube.com/watch?v=_5uVtINSr_w) - Medical Device Threat Modeling with Templates Valery Berestetsky and Jonathan Schaaf
 
 
 ## Papers
@@ -52,6 +53,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [QM System for medical devices](https://www.tuv-sud.co.uk/uk-en/industry/healthcare-medical-devices/quality-management-amp-quality-control/iso-13485-quality-management-system-for-medical-devices) - ISO 13485 Quality Management System for Medical Devices
 * [Hippocratic Oath for Connected Medical Devices](https://www.iamthecavalry.org/wp-content/uploads/2016/01/I-Am-The-Cavalry-Hippocratic-Oath-for-Connected-Medical-Devices.pdf) - I Am The Cavalry - Hippocratic Oath for Connected Medical Devices
 * [Five Star Automotive Cyber Safety](https://www.iamthecavalry.org/wp-content/uploads/2014/08/Five-Star-Automotive-Cyber-Safety-February-2015.pdf) - Five Star automotive cyber safety framework is also applicable to medical devices
+* [An Architecture for Analysis](https://www.cs.ucsb.edu/~jmcmahan/research/top_picks_18.pdf) - paper describes how to do proper embedded device security with example of pacemaker
 
 ## Videos
 * [HL7 Courses](https://www.youtube.com/watch?v=ZAgdYR1rmEQ&list=PLNH9Hx9ks4CediBpp9Yr9N8icTfCr0TUN) - Youtube list that contains HL7 videos explaining HL7 v2 protocol
