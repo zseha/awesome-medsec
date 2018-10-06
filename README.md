@@ -43,6 +43,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Hospitals And Infosec](https://www.youtube.com/watch?v=5QDdXPWZS1c) - Hospitals And Infosec by Jelena Milosevic
 * [State of Medical Device Cyber Safety](https://www.youtube.com/watch?v=SLMafs9FMvE) - State of Medical Device Cyber Safety Beau Woods Scott Erven (IATC)
 * [Medical Device Threat Modeling](https://www.youtube.com/watch?v=_5uVtINSr_w) - Medical Device Threat Modeling with Templates Valery Berestetsky and Jonathan Schaaf
+* [Abusing IoT Medical Devices](https://www.youtube.com/watch?v=w7kI4M9Ym2Q) - Abusing IoT Medical Devices For Your Precious Health Records Saurabh Harit Nick Delewski
 
 
 ## Papers
