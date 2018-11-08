@@ -55,6 +55,21 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Hippocratic Oath for Connected Medical Devices](https://www.iamthecavalry.org/wp-content/uploads/2016/01/I-Am-The-Cavalry-Hippocratic-Oath-for-Connected-Medical-Devices.pdf) - I Am The Cavalry - Hippocratic Oath for Connected Medical Devices
 * [Five Star Automotive Cyber Safety](https://www.iamthecavalry.org/wp-content/uploads/2014/08/Five-Star-Automotive-Cyber-Safety-February-2015.pdf) - Five Star automotive cyber safety framework is also applicable to medical devices
 * [An Architecture for Analysis](https://www.cs.ucsb.edu/~jmcmahan/research/top_picks_18.pdf) - paper describes how to do proper embedded device security with example of pacemaker
+* [Breaking the Human SCADA System](https://media.blackhat.com/bh-us-11/Radcliffe/BH_US_11_Radcliffe_Hacking_Medical_Devices_WP.pdf) - Hacking Medical Devices for Fun and Insulin: Breaking the Human SCADA System
+* [MEDJACK](https://securityledger.com/wp-content/uploads/2015/06/AOA_MEDJACK_LAYOUT_6-0_6-3-2015-1.pdf) - ANATOMY OF AN ATTACK MEDJACK
+* [Software Radio Attacks and Zero-Power Defenses](https://www.secure-medicine.org/hubfs/public/publications/icd-study.pdf) - Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses
+* [On the in/security of the Latest Generation Implantable Cardiac Defibrillators]( https://www.esat.kuleuven.be/cosic/publications/article-2678.pdf) - On the (in)security of the Latest Generation Implantable Cardiac Defibrillators and How to Secure Them
+* [Analysis of FDA Postmarket Surveillance](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040200&type=printable) - Security and Privacy Qualities of Medical Devices: An Analysis of FDA Postmarket Surveillance
+* [ecurity Evaluation of the ICD](https://drive.google.com/file/d/0B_GspGER4QQTYkJfaVlBeGVCSW8/view) - Security Evaluation of the Implantable Cardiac Device Ecosystem Architecture and Implementation Interdependencies
+
+
+
+
+## Articles
+* [Vulnerabilities in Animas OneTouch](https://blog.rapid7.com/2016/10/04/r7-2016-07-multiple-vulnerabilities-in-animas-onetouch-ping-insulin-pump/) - R7-2016-07: Multiple Vulnerabilities in Animas OneTouch Ping Insulin Pump
+* [Natus Neuroworks Vulnerabilities](https://blog.talosintelligence.com/2018/04/vulnerability-spotlight-natus.html?m=1) - Vulnerability Spotlight: Natus NeuroWorks Multiple Vulnerabilities
+* [Pacemaker patients at risk of death by hacking](https://www.tirosec.com/pacemaker-patients-at-risk-of-death-by-hacking/) - Pacemaker patients at risk of death by hacking
+
 
 ## Videos
 * [HL7 Courses](https://www.youtube.com/watch?v=ZAgdYR1rmEQ&list=PLNH9Hx9ks4CediBpp9Yr9N8icTfCr0TUN) - Youtube list that contains HL7 videos explaining HL7 v2 protocol
