@@ -60,7 +60,9 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Software Radio Attacks and Zero-Power Defenses](https://www.secure-medicine.org/hubfs/public/publications/icd-study.pdf) - Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses
 * [On the in/security of the Latest Generation Implantable Cardiac Defibrillators]( https://www.esat.kuleuven.be/cosic/publications/article-2678.pdf) - On the (in)security of the Latest Generation Implantable Cardiac Defibrillators and How to Secure Them
 * [Analysis of FDA Postmarket Surveillance](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040200&type=printable) - Security and Privacy Qualities of Medical Devices: An Analysis of FDA Postmarket Surveillance
-* [ecurity Evaluation of the ICD](https://drive.google.com/file/d/0B_GspGER4QQTYkJfaVlBeGVCSW8/view) - Security Evaluation of the Implantable Cardiac Device Ecosystem Architecture and Implementation Interdependencies
+* [Security Evaluation of the ICD](https://drive.google.com/file/d/0B_GspGER4QQTYkJfaVlBeGVCSW8/view) - Security Evaluation of the Implantable Cardiac Device Ecosystem Architecture and Implementation Interdependencies
+* [Medical-Grade Data Exchange](https://www.pchalliance.org/sites/pchalliance/files/Fundamentals_Medical-Grade_Data_Exchange_Sep2018.pdf) - Fundamentals of Medical-Grade Data Exchange
+
 
 
 
