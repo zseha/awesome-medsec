@@ -15,13 +15,12 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 
 
 ## Libraries
-* []() - dicom lib
 * [HAPI](https://github.com/hapifhir/hapi-hl7v2) - HAPI (Java)
 * [nHAPI](https://github.com/duaneedwards/nHapi) - nHAPI (C#) 
 * [python-hl7](https://github.com/johnpaulett/python-hl7) - (Py)
 * [HL7-fuse](https://github.com/dib0/HL7Fuse) - HL7Fuse (C#)
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - HL7Fuse (C#)
-
+* [LDDI](https://github.com/universAAL/lddi) - Local Device Discovery and Integration (LDDI)
 ## Talks
 * [The Scientific Method in Security Research](https://www.youtube.com/watch?v=UkA9JOUcFi4) -  Jay Radcliffe - The Scientific Method in Security Research
 * [Breaking the Human SCADA](https://www.youtube.com/watch?v=avf5XF8yS60) - Hacking Medical Devices for Fun and Insulin: Breaking the Human SCADA System
@@ -62,6 +61,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Analysis of FDA Postmarket Surveillance](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040200&type=printable) - Security and Privacy Qualities of Medical Devices: An Analysis of FDA Postmarket Surveillance
 * [Security Evaluation of the ICD](https://drive.google.com/file/d/0B_GspGER4QQTYkJfaVlBeGVCSW8/view) - Security Evaluation of the Implantable Cardiac Device Ecosystem Architecture and Implementation Interdependencies
 * [Medical-Grade Data Exchange](https://www.pchalliance.org/sites/pchalliance/files/Fundamentals_Medical-Grade_Data_Exchange_Sep2018.pdf) - Fundamentals of Medical-Grade Data Exchange
+* [HDP implementation guidance](https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=225927) - HDP implementation guidance whitepaper
 
 
 
