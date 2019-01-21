@@ -85,6 +85,9 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [NextGen](https://www.nextgen.com/products-and-services/integration-engine) - NextGen(Previously mirth) Connect 
 * [HL7-Snoop](https://github.com/dgrinberg/HL7-Snoop) - 'HL7 Snoop' is a Windows GUI that uses NHapi to parse a HL7 file and then display it in a tree structure.
 * [Farser](https://hl7.cc/) - online HL7 Parser/Viewer
+* [OpenMRS](https://openmrs.org/) - Open source medical record system
+* [OpenEMR](https://www.open-emr.org/) - Open source electronic health records and medical practice management solution.
+* [GnuMED](http://wiki.gnumed.de/bin/view/Gnumed) - electronic medical record client 
 
 
 ## Contributors
