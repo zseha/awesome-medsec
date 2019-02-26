@@ -88,7 +88,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [OpenMRS](https://openmrs.org/) - Open source medical record system
 * [OpenEMR](https://www.open-emr.org/) - Open source electronic health records and medical practice management solution.
 * [GnuMED](http://wiki.gnumed.de/bin/view/Gnumed) - electronic medical record client 
-
+* [Bahmni](https://www.bahmni.org) - Open source hospital system 
 
 ## Contributors
 
