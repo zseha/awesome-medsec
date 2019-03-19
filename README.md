@@ -44,6 +44,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Medical Device Threat Modeling](https://www.youtube.com/watch?v=_5uVtINSr_w) - Medical Device Threat Modeling with Templates Valery Berestetsky and Jonathan Schaaf
 * [Abusing IoT Medical Devices](https://www.youtube.com/watch?v=w7kI4M9Ym2Q) - Abusing IoT Medical Devices For Your Precious Health Records Saurabh Harit Nick Delewski
 * [Digital Disease](https://www.youtube.com/watch?v=yjZ-KiZlk7Q) - Digital Disease: How Healthcare Cybersecurity Challenges...  Christian Dameff
+* [Medical Device Security](https://www.youtube.com/watch?v=0r6SodNXGJM) - Medical Device Security - Please (don't) be patient! Julian Suleder
 
 ## Papers
 * [Introduction to HL7 Standards](http://www.hl7.org/implement/standards/index.cfm?ref=nav) - Introduction to HL7 Standards
