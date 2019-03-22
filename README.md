@@ -72,6 +72,7 @@ A curated list of awesome projects, libraries, and tools for MedSec.
 * [Vulnerabilities in Animas OneTouch](https://blog.rapid7.com/2016/10/04/r7-2016-07-multiple-vulnerabilities-in-animas-onetouch-ping-insulin-pump/) - R7-2016-07: Multiple Vulnerabilities in Animas OneTouch Ping Insulin Pump
 * [Natus Neuroworks Vulnerabilities](https://blog.talosintelligence.com/2018/04/vulnerability-spotlight-natus.html?m=1) - Vulnerability Spotlight: Natus NeuroWorks Multiple Vulnerabilities
 * [Pacemaker patients at risk of death by hacking](https://www.tirosec.com/pacemaker-patients-at-risk-of-death-by-hacking/) - Pacemaker patients at risk of death by hacking
+* [750k Medtronic defibrillators vulnerable](http://www.startribune.com/750-000-medtronic-defibrillators-vulnerable-to-hacking/507470932/) - 750,000 Medtronic defibrillators vulnerable to hacking
 
 
 ## Videos
